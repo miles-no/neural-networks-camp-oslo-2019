@@ -14,7 +14,7 @@ Vi forteller litt om
 
 [Lenke til slides](https://docs.google.com/presentation/d/1-aZgowRA1LZ1Eq2HA8br_3hZbKzXHYk2uTKWX2u-pBo/edit?usp=sharing)
 
-[Lenke til oppgave](https://colab.research.google.com/drive/13T1GmWWoshMR-6cL6Nol3MQFCIy94anx) (TODO: Fiks denne)
+[Lenke til oppgave](https://colab.research.google.com/drive/1bbVLykFBn-sj9lcenkm9kkMpcXhGvNvu)
 
 [Lenke til fasit](https://colab.research.google.com/drive/13T1GmWWoshMR-6cL6Nol3MQFCIy94anx)
 
